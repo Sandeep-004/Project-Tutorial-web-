@@ -1,0 +1,14 @@
+{
+  "name": "mca-vsem-proo",
+  "version": "1.0.0",
+  "description": "MCA PROJECT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandeep Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,366 @@
+ *{
+
+	margin: 0;
+	padding: 0;
+
+}
+
+/*Section A*/
+
+nav {
+
+	font-weight: 500;
+	font-size: 20px;
+	background-color: #0000 !important;
+	color: #0000;
+	position: relative;
+}
+
+#logo1{
+
+	position: relative;
+	left: 8px;
+	display: block;
+
+	border-radius: 50%;
+	border: 3px solid #931a25;
+	width: 10vw;
+	height: 12vh;
+
+}
+
+section {
+
+	
+	color: #000;
+	font-size: 18px;
+}
+
+.shadow:hover {
+
+	box-shadow: 1px 1px 2px 2px #070d59;
+}
+
+h2 {
+	margin-top: 8px; 
+	font-weight: bold;
+	line-height: 2px;
+
+}
+
+.imgsvg {
+
+	width: 45vw;
+	height: 80vh;
+}
+
+
+hr{
+
+	background-color: #000;
+	margin-top: 2px;	
+}
+
+.heading {
+
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: #14274e;
+}
+
+.para {
+
+	font-weight: 400;
+}
+
+.click {
+
+	width: 10vw;
+	text-align: center;
+	margin-left: 40%;
+	border-radius: 50px;
+	border: 2px solid red;
+	background: none; 
+} 
+
+.click:hover {
+
+	background-image: linear-gradient(#00c6ff,#0072ff);
+	border: 2px solid #000000;
+	color: #fff;
+
+}
+
+
+/*Section B*/
+
+
+#Bootstrap {
+
+	color: #03c4a1;
+}
+
+#boo {
+
+	position: relative;
+	top: 50px;
+}
+
+
+#col4, #col8 {
+
+	margin-top: 10%;
+}
+
+
+/*Section C*/
+
+
+#JavaScript {
+
+	color: #cc0e74;
+}
+
+#js {
+
+	position: relative;
+	top: 80px;
+}
+
+#col5 {
+
+	margin-top: 10%;
+}	
+
+
+
+/*Section D*/
+
+
+#jQuery {
+
+	color: #7E6E31;
+}
+
+#jQ {
+
+	position: relative;
+	top: 60px;
+}
+#col7{
+
+	margin-bottom: 8%;
+
+
+}
+
+/*Section D*/
+#Rform {
+
+	background-image: linear-gradient(#0f0c29, #302b63, #24243e);
+	color: #ffffff;
+}
+
+.Register {
+
+	width: 12vw;
+	background-color: #000000;
+	border-radius: 4px;
+	color: #ffffff;		
+
+}
+
+#complete:hover {
+
+	background-image: linear-gradient(-45deg, #833ab4, #fd1d1d, #fcb045);
+	background-position: 0 0;	
+	border-radius: 50px 0 50px 0;
+	width: 14vw;
+}
+
+
+#join {
+
+	background-image: linear-gradient(#333333, #dd1818);
+	color: #ffffff;
+	text-align: center;
+
+
+}
+
+#sam {
+
+	position: relative;
+	bottom: 10%;
+}
+
+	/*Section E*/
+#part7 {
+
+	background-image: linear-gradient(#000000, #434343);
+	color: #fff;
+	z-index: 2;
+
+}
+
+#social {
+	display: flex;
+	display: block;
+
+
+}
+
+.Copyright {
+
+	font-size: 13px;
+	text-align: center;
+	justify-content: center;
+	color: #aaa;
+
+}
+
+
+i:hover {
+
+		color: #ffffff;
+
+}
+
+
+.carousel-inner {
+
+	
+	background-attachment: fixed;
+	background-repeat:  no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #ffff;
+	text-align: center;
+	
+}
+
+.carousel-item img {
+
+	border-radius: 8px;
+	width: 90vw !important;
+	height: 80vh;
+	position: relative;
+	left: 5%;
+
+}
+
+#logo2 {
+
+	position: relative;
+	left: 8px;
+	display: block;
+
+	border-radius: 50%;
+	border: 3px solid #931a25;
+	width: 10vw;
+	height: 12vh;
+
+}
+
+
+/*htmlCss*/
+
+
+.htmlCss {
+
+color: #000;
+position: absolute; 
+}
+
+#videos{
+
+background-image: linear-gradient(#0000, #FFEFBA, #FFFFFF,#93291E, #99f2c8);
+background-attachment: fixed;
+background-repeat:  no-repeat;
+background-position: center;
+background-size: cover;
+
+}
+
+#videosnav {
+ 
+ background-color: #ffff;
+
+}
+
+.htmlCssVideo {
+
+	margin-left: 6px;
+}
+
+.htmlCssiFrame:hover {
+
+	width: 100%;
+}
+
+iframe {
+
+	display: inline-flex;
+	padding: 8px;
+}
+
+/* htmlCss tutorial link */
+
+#link {
+
+position: relative;
+/*background-image: linear-gradient(#2ec1ac, #f6f7d4, #290001,#e0ece4, #cd0a0a);*/
+background-color: #212121;
+background-attachment: fixed;
+background-repeat:  no-repeat;
+background-position: center;
+background-size: cover;
+color: #000;
+}
+
+
+.paraCard {
+
+	color: #000;
+}
+.mb-3 {
+
+	position: absolute;
+/*	background-image: linear-gradient(#00b09b, #96c93d, #cd0a0a);*/
+	background-attachment: fixed;
+	position: relative;
+	top: 10px;
+}
+
+.mb-3:hover {
+
+	max-width: 100%;
+	box-shadow: 1px 1px 4px 4px #a20a0a;
+
+}
+
+.card-header {
+
+	background-color: #000;
+
+}
+
+.buttonLink {
+
+	position: relative;
+	border-radius: 50px;
+	border: 2px solid #000;
+	width: 14vw;
+	background: none;
+	color: #000;
+	letter-spacing: 1px;
+	font-weight: 10px;
+
+}
+
+.buttonLink:hover {
+
+	background-color: #000;
+	color: #fff;
+
+}

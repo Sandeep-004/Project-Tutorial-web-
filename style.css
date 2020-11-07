@@ -1,0 +1,236 @@
+*{
+
+	margin: 0;
+	padding: 0;
+
+}
+
+/*Section A*/
+
+nav {
+
+	font-weight: 800;
+	font-size: 20px;
+	background-color: #0000 !important;
+	color: #0000;
+}
+
+section {
+
+	
+	color: #000;
+	font-size: 20px;
+}
+
+h2 {
+	margin-top: 8px; 
+	font-weight: bold;
+	line-height: 2px;
+
+}
+
+.imgsvg {
+
+	width: 45vw;
+	height: 80vh;
+}
+
+
+hr{
+
+	background-color: #000;
+	margin-top: 2px;	
+}
+
+.heading {
+
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: #14274e;
+}
+
+.para {
+
+	font-weight: 400;
+}
+
+.click {
+
+	width: 8vw;
+	text-align: center;
+	margin-left: 40%;
+	border-radius: 50px;
+	border: none;
+	background-color: #968c83;
+} 
+
+.click:hover {
+
+	background-color: #14274e;
+	color: #fff;
+}
+
+
+/*Section B*/
+
+
+#Bootstrap {
+
+	color: #03c4a1;
+}
+
+#click1:hover {
+
+	background-color: #03c4a1;
+}
+
+#col4, #col8 {
+
+	margin-top: 10%;
+}
+
+
+/*Section C*/
+
+
+#JavaScript {
+
+	color: #cc0e74;
+}
+
+#click2:hover {
+
+	background-color: #cc0e74;
+}
+
+#col5 {
+
+	margin-top: 10%;
+}	
+
+
+
+/*Section D*/
+
+
+#jQuery {
+
+	color: #7E6E31;
+}
+
+#click3:hover {
+
+	background-color: #7E6E31;
+}
+#col7{
+
+	margin-bottom: 8%;
+
+
+}
+
+/*Section D*/
+#Rform {
+
+	background-image: linear-gradient(#0f0c29, #302b63, #24243e);
+	color: #ffffff;
+}
+
+.Register {
+
+	width: 10vw;
+	background-color: #000000;
+	border-radius: 4px;
+	color: #ffffff;		
+
+}
+
+#complete:hover {
+
+	background-image: linear-gradient(-45deg, #833ab4, #fd1d1d, #fcb045);
+	background-position: 0 0;	
+	border-radius: 50px 0 50px 0;
+	width: 12vw;
+}
+
+
+#join {
+
+	background-image: linear-gradient(#333333, #dd1818);
+	color: #ffffff;
+	text-align: center;
+
+
+}
+
+#sam {
+
+	position: relative;
+	bottom: 10%;
+}
+
+	/*Section E*/
+#part7 {
+
+	background-image: linear-gradient(#000000, #434343);
+	color: #fff;
+	z-index: 2;
+
+}
+
+#social {
+
+	padding: 8px;
+
+}
+
+
+i:hover {
+
+		color: #ffffff;
+
+}
+
+
+
+
+
+.carousel-inner {
+
+	
+	background-attachment: fixed;
+	background-repeat:  no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #ffff;
+	text-align: center;
+	
+}
+
+.carousel-item img {
+
+	border-radius: 8px;
+	width: 90vw !important;
+	height: 80vh;
+	position: relative;
+	left: 5%;
+
+}
+
+
+
+
+/*htmlCss*/
+
+
+#htmlCss {
+
+background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("Images/setup.jpg");
+background-attachment: fixed;
+background-repeat:  no-repeat;
+background-position: center;
+background-size: cover;
+color: #ffffff;
+position: absolute; 
+z-index: -1;
+}
